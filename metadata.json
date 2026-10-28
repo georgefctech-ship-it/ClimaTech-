@@ -1,0 +1,6 @@
+{
+  "name": "ClimaCalc - Orçamento de Ar-Condicionado",
+  "description": "Calculadora profissional de orçamentos para serviços de instalação, manutenção e recarga de gás em ar-condicionado com geração de resumo e envio para WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
